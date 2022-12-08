@@ -1,0 +1,2 @@
+# kangbazijinze.github.io
+myblog
